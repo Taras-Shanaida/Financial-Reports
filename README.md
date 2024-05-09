@@ -19,7 +19,7 @@ To use the script, follow these steps:
 1. Ensure you have Python installed on your system.
 2. Replace the placeholders with your Monobank API authentication token and account identifiers (`auth_token`, `jar_account`, `card_account`).
 3. Specify the desired time period for the report by setting the `start_date` and `end_date` variables in UTC format.
-4. Run the script using `python monobank_report_generator.py`.
+4. Run the script using `Monobank_Reports.py`.
 5. The script will fetch account activity data from Monobank's API, process it, and generate short reports in CSV format for basic and jar accounts.
 
 ## Dependencies
